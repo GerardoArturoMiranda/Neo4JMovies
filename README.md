@@ -13,4 +13,4 @@
   dbms.windows_service_name=neo4j 
   apoc.import.file.enabled=true 
    6.- Use the code from the Keynote to import the csv File 
-   7.- RUN the INTERFACES and that’s all
+
